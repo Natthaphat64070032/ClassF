@@ -1,0 +1,2950 @@
+fileFormatVersion: 2
+guid: ccef6b04b3488f24c87976ce1e3935b5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: x3sheet2gold_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 651
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3a0cc7a3a2c04438e0372416845c6e
+      internalID: -952464261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 651
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c71651d22c9a5a4a8b796140ca0125d
+      internalID: 1706989737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 651
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f031c6fca4c10424b891a0a28555f2df
+      internalID: 1033571390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 651
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a7d26f4c137524e90459226e0d86cf
+      internalID: -797206176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 651
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa3d52261d210842a4407765656661c
+      internalID: 1747253452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_5
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 651
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dc1e94da399794cb2fbab48ccd26ad
+      internalID: 1454042404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_6
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 651
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21494729acd0bc44a276bab01b7bc8f
+      internalID: -1179256220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 651
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02a297c874bdab4d8b94dc9f1d3e3d6
+      internalID: 1336449824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 651
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d175cb540ef73d4eaa93c2c46ac23a9
+      internalID: -32129294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_9
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 651
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e7990d1e97319499918d4d3f8247a8
+      internalID: -981412111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 600
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8569682e450e65949bfa07d0eb4d3273
+      internalID: -759499777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_11
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 600
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed3ddc65174e6d48890e6f240cce43e
+      internalID: 518078778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 600
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e3432141c3adf44920953d11cc964b
+      internalID: -1255793778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 600
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48b6fd45e31a4f48ade2fb06bcf97c4
+      internalID: -1401460641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_14
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 600
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46176d657493a66458cdebe23d38d4e1
+      internalID: -1152562855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_15
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 600
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9396fe44e2fd9f44d9c2bf0032070395
+      internalID: -139403383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 600
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3a0b38d3877d74b8ed181f75a74ecd
+      internalID: -962698861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_17
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 600
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6881183b8c70a488da9171b9dc24c4
+      internalID: -2114160929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_18
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 600
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5feab4f48733c24c96ca5f889ff1854
+      internalID: 1000868098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_19
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 556
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47baa5d791a9f5042b2b73e4eabde039
+      internalID: 769363393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 556
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473a2da8edb5f184a916e5e181cbf9ef
+      internalID: 203972688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 556
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5254f1a1ab749ba4688db9226698cc07
+      internalID: 1429668771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_22
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 556
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da983910a2afdf74bae97e227985910e
+      internalID: 1984629419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_23
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 556
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7012237c716944e8fc3f0e4f210683
+      internalID: 2060415752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_24
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 556
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639591a922c531c4bb30974655e0a0d5
+      internalID: 91716286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_25
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 556
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4b792bfcc23934197a502fb6392021
+      internalID: 1898612866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_26
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 556
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2f53081d82ad94289a0c7be00163e5
+      internalID: 1026650227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_27
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 556
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564892ab297d1f24381229712052ab26
+      internalID: 1372606854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_28
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 556
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbc756a657043d4ab5ec085296ab08b
+      internalID: -1620488632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_29
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 556
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2800b5efc150574e97299d5686d0085
+      internalID: 404183574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_30
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 505
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18196a34c6227c4fac498687c40b89e
+      internalID: 1007449651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_31
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 505
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498f5a024e9dc1745942553c50a532eb
+      internalID: 1947814772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_32
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 505
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0975e665a307c384a8e9956d41c537cb
+      internalID: 856429532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_33
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 505
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde1f4bb6476f6547927391dbc656aa5
+      internalID: -637828294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_34
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 505
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7da4372d2c72d48884724e86e84c92
+      internalID: 1521820902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_35
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 505
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ec8404eabfeb6469d30511df85a352
+      internalID: -221009753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_36
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 505
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f270e3bab1f1614ea1814a8ba27ca39
+      internalID: 826301359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_37
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 458
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2862041e95b2b054cbf982b7438e4024
+      internalID: 240811179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_38
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 458
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f958e5fcfd001c4b980e6826b8e16fb
+      internalID: -615496730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 458
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5efa90e52d26344913136319ff732f
+      internalID: 1821910804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_40
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 458
+        width: 53
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbca9eb74220a742864589e3c77c272
+      internalID: -1843564280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_41
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 457
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca413e80582ada24e9086bf389780560
+      internalID: -692679001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_42
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 459
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daba58fb5f75a36498b7e88571cd84b8
+      internalID: -317175850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_43
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 458
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d834ff3e032ef6a4d894ee977c0f4789
+      internalID: -1895759889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 456
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e547c9b59fa5aee42b4ae18cfe71626c
+      internalID: 298481250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_45
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 456
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f179b0ffcbf10fb4892ac819eadf088e
+      internalID: 803950481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_46
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 456
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bc788737e667042818bd3664c14799
+      internalID: -345988138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_47
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 454
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f432175f2b8dac8459f32bf3be6bcd75
+      internalID: 1228092067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 411
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4df35e28a6fec4e9966f8a1a81c03d
+      internalID: -428013679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_49
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 411
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486b03f491b9c0245ba2a1e46ff16be9
+      internalID: -1028918726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_50
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 411
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd64b6161eb00bd428722eca1483f16f
+      internalID: -375248909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_51
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 411
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4014b8c9a9286934bbd71e37e4062485
+      internalID: 2037806151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_52
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 411
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df940a320dc16534bbcfb7793336174d
+      internalID: -2103084219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_53
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 411
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a429fc126a30f24b93f72f8d44d7091
+      internalID: 423152373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_54
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 411
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e66631ae0e7c57419e4be75ceff187a
+      internalID: 641250205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_55
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 411
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdc761c4aab7e044b306ec7f2bf2a4e
+      internalID: -1763134532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_56
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 411
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f113c59e35e31d44b504ba9522fc15f
+      internalID: 112261323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_57
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 411
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab557e69a9c7614aa4b1fe0a2d7b272
+      internalID: -177284248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_58
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 365
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c5b0bd947f2874bbd545a7aa7e4227
+      internalID: 235415250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_59
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 365
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc43db29d38b3d4497f5431211eea35
+      internalID: -1314435134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_60
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 365
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819a6771a8f6ea84594b4d607f8e661e
+      internalID: 363756388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_61
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 365
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a159a6aac2eb446b88ed1ff8db4d55
+      internalID: -855136034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_62
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 365
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64aa0288d6534504f8a100afc4f009cc
+      internalID: -1968546652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_63
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 365
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6da2aef601f8514cbced4e07e560140
+      internalID: -947725134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_64
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 365
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5272c28ce5abacf44bc994e6c3835201
+      internalID: -997613081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 365
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270ef8be079aea34d9091d8db2a055fd
+      internalID: -711882360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_66
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 365
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5392db49089f2e84db99c56e87ed7757
+      internalID: -2111018824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_67
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 314
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0c886fa3dd42a4587f4f88489dec8e
+      internalID: -329658149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_68
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 312
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79488bd703516d4baf199da0365b773
+      internalID: 1571120359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_69
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 313
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432ff2c61396121498faa9818c0522df
+      internalID: 1601640560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_70
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 312
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905b05578243ff34f82c27c4aeb0421b
+      internalID: 1534799444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_71
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 313
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ab051bed1e893488286e79ba7d51dc
+      internalID: 406583119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_72
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 314
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e260db9b76c478948adf5bb087507a43
+      internalID: -413316695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_73
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 312
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e12b0fbcf6f0a84eb05b9064427bbbf
+      internalID: 166135830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_74
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 313
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d0cad912ee161478f30697b2f905fb
+      internalID: 1674578346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_75
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 248
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd61962f752044743b9e04b549dc5fd9
+      internalID: -1154535160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_76
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 248
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a1b3b6c9ea5804f82d105b1a3d265e
+      internalID: -930595349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_77
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 248
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb084ddcb16ded4fa5e620fd1e93a2a
+      internalID: -232775207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_78
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 248
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84b8bb4a08c6114d99e65bbef12a725
+      internalID: -1990177009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_79
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 248
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7733e09b676773a4eb4192b174f00699
+      internalID: -1031535492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_80
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 248
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b9345a1efa400469feb17be689d98e
+      internalID: -1028226737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_81
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 248
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2025e760b67ba2946abdde6cf531f30c
+      internalID: -476016384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_82
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 248
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2404a4894703667438604989214c0c89
+      internalID: 1111528771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_83
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ba0f8b38d17d540a92ebce455cd15c
+      internalID: -1279013981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_84
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 255
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aea912d7f60f6b40abc5de98c8262de
+      internalID: 1977210751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_85
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 248
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bd2a5f15e820c469ba0a597b920c2e
+      internalID: 301602052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_86
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 248
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d4c19d6453f914e9994b9aa1c68fba
+      internalID: 853460059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_87
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 188
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57bb0a25a4d0a44abe84507758aa009
+      internalID: 1997161635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_88
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 192
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bf87f541382e74bb46cd3a95812aec
+      internalID: -1644488783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_89
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 187
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf936b4fafe1457498f5d71f6e7bf75c
+      internalID: 1572075918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_90
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 183
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5990c33555a5914e90f4a370cea7411
+      internalID: 81950209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_91
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 184
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374728e841bfb2f4bb60f0b86a83e143
+      internalID: -1364806646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_92
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 182
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05b7ddb71e047840bb470a7eef62cbc
+      internalID: -491226362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_93
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 180
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554d6b4745167634992cf0ddf850accb
+      internalID: 1686286711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_94
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 179
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d777895d1a99f4e84fe49e65484669
+      internalID: -1091864415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_95
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 181
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702c02813b565a34d8cb9d8d14fdb73f
+      internalID: 988464320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_96
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 198
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc9bca992ad6754abdaace4adcea3bb
+      internalID: -1612884355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_97
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 181
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223f7ae0037dbdc4796b91eab9523cf7
+      internalID: -419746166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_98
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 179
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce6eb1e492f3d946a7644de636088be
+      internalID: -1857439533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_99
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 125
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6350de13abf704c8ee016df423216b
+      internalID: -2018104941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_100
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 126
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd875a2da2392e47a54a32af517c9fd
+      internalID: 924647016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_101
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 127
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bac735b10469e045a09626624233de3
+      internalID: 1832533695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_102
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 127
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a5b9e82e1991d4fa5a6d92363a2538
+      internalID: 685814355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_103
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 127
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfe18ee1093f28479cb02132872fc13
+      internalID: -2087706075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_104
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 128
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5e109d526d043498f14487f2884a9a
+      internalID: -1059561973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_105
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 127
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f250f84a91963468640d7216fce018
+      internalID: -1023893048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_106
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 128
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55421deb9e21a394fb761cc03c7054b9
+      internalID: -158660488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_107
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 129
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045b84d1411e0c44b8f6259605614be8
+      internalID: -520111277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_108
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 130
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e895783ea04e923408e7a61df8866cbd
+      internalID: 59625875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_109
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 74
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee95381c10daf7c42a61d61304caee6c
+      internalID: 1309375925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_110
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 68
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4adedba8ffa2444a341decf5ca4ef3
+      internalID: -1484508386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_111
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 72
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0737552ea9d5654e9fedd9003f7ea8e
+      internalID: -1876635638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_112
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 72
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df90487740523c45a17edb38bbe4fd5
+      internalID: 389312216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_113
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 68
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49ebcbcea21e644ca526906fedf6d0c
+      internalID: -573811925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_114
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 80
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffae02715794a1d4d95292f8f5d97b89
+      internalID: -948288920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_115
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 85
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4531aadfeee9144391a9975fe7383af
+      internalID: 62345292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_116
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 69
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f93c357801cb442a12cd911f807720
+      internalID: -1820550245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_117
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 75
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8db59b0d64d0d49b476708446b1c8b
+      internalID: 630851243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_118
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 76
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731f1804e798116449218b6b5e107fee
+      internalID: 25216772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_119
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 73
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5cecb67a8d77644a572159cdae7e33
+      internalID: -1061674057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_120
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 74
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108fa5e14fa417b4e85df1332d751fce
+      internalID: -1649874307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_121
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 74
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d1262958c5c7142bb601f5e94407e9
+      internalID: 1372728033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_122
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 74
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e9aca4994d700448ee4940cf97eba1
+      internalID: -1845361222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_123
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 11
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd1c024e5282af4788ffad4885c031b
+      internalID: -625171842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_124
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 11
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266a7e9bda80bd14bbecf1e78508c0e6
+      internalID: 1078159688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_125
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 11
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cd7e355f393c44f8141a24ba21960b
+      internalID: -2074171503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_126
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 12
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624d61c36b2d5904b95052332a06c49c
+      internalID: 220122533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet2gold_127
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 12
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cc2051c97c2e14bb028ad92afd4b7b
+      internalID: 404358169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      x3sheet2gold_23: 2060415752
+      x3sheet2gold_2: 1033571390
+      x3sheet2gold_117: 630851243
+      x3sheet2gold_45: 803950481
+      x3sheet2gold_41: -692679001
+      x3sheet2gold_77: -232775207
+      x3sheet2gold_105: -1023893048
+      x3sheet2gold_115: 62345292
+      x3sheet2gold_63: -947725134
+      x3sheet2gold_81: -476016384
+      x3sheet2gold_113: -573811925
+      x3sheet2gold_3: -797206176
+      x3sheet2gold_62: -1968546652
+      x3sheet2gold_66: -2111018824
+      x3sheet2gold_70: 1534799444
+      x3sheet2gold_59: -1314435134
+      x3sheet2gold_123: -625171842
+      x3sheet2gold_52: -2103084219
+      x3sheet2gold_101: 1832533695
+      x3sheet2gold_22: 1984629419
+      x3sheet2gold_88: -1644488783
+      x3sheet2gold_29: 404183574
+      x3sheet2gold_65: -711882360
+      x3sheet2gold_68: 1571120359
+      x3sheet2gold_82: 1111528771
+      x3sheet2gold_51: 2037806151
+      x3sheet2gold_78: -1990177009
+      x3sheet2gold_87: 1997161635
+      x3sheet2gold_56: 112261323
+      x3sheet2gold_7: 1336449824
+      x3sheet2gold_97: -419746166
+      x3sheet2gold_60: 363756388
+      x3sheet2gold_31: 1947814772
+      x3sheet2gold_40: -1843564280
+      x3sheet2gold_18: 1000868098
+      x3sheet2gold_85: 301602052
+      x3sheet2gold_1: 1706989737
+      x3sheet2gold_34: 1521820902
+      x3sheet2gold_47: 1228092067
+      x3sheet2gold_73: 166135830
+      x3sheet2gold_12: -1255793778
+      x3sheet2gold_61: -855136034
+      x3sheet2gold_124: 1078159688
+      x3sheet2gold_27: 1372606854
+      x3sheet2gold_50: -375248909
+      x3sheet2gold_57: -177284248
+      x3sheet2gold_80: -1028226737
+      x3sheet2gold_76: -930595349
+      x3sheet2gold_39: 1821910804
+      x3sheet2gold_92: -491226362
+      x3sheet2gold_8: -32129294
+      x3sheet2gold_75: -1154535160
+      x3sheet2gold_58: 235415250
+      x3sheet2gold_49: -1028918726
+      x3sheet2gold_24: 91716286
+      x3sheet2gold_48: -428013679
+      x3sheet2gold_114: -948288920
+      x3sheet2gold_99: -2018104941
+      x3sheet2gold_30: 1007449651
+      x3sheet2gold_84: 1977210751
+      x3sheet2gold_102: 685814355
+      x3sheet2gold_100: 924647016
+      x3sheet2gold_13: -1401460641
+      x3sheet2gold_69: 1601640560
+      x3sheet2gold_44: 298481250
+      x3sheet2gold_96: -1612884355
+      x3sheet2gold_74: 1674578346
+      x3sheet2gold_26: 1026650227
+      x3sheet2gold_106: -158660488
+      x3sheet2gold_95: 988464320
+      x3sheet2gold_111: -1876635638
+      x3sheet2gold_112: 389312216
+      x3sheet2gold_103: -2087706075
+      x3sheet2gold_72: -413316695
+      x3sheet2gold_19: 769363393
+      x3sheet2gold_125: -2074171503
+      x3sheet2gold_28: -1620488632
+      x3sheet2gold_35: -221009753
+      x3sheet2gold_55: -1763134532
+      x3sheet2gold_17: -2114160929
+      x3sheet2gold_6: -1179256220
+      x3sheet2gold_53: 423152373
+      x3sheet2gold_122: -1845361222
+      x3sheet2gold_33: -637828294
+      x3sheet2gold_127: 404358169
+      x3sheet2gold_86: 853460059
+      x3sheet2gold_21: 1429668771
+      x3sheet2gold_118: 25216772
+      x3sheet2gold_67: -329658149
+      x3sheet2gold_94: -1091864415
+      x3sheet2gold_89: 1572075918
+      x3sheet2gold_4: 1747253452
+      x3sheet2gold_16: -962698861
+      x3sheet2gold_90: 81950209
+      x3sheet2gold_108: 59625875
+      x3sheet2gold_64: -997613081
+      x3sheet2gold_43: -1895759889
+      x3sheet2gold_93: 1686286711
+      x3sheet2gold_32: 856429532
+      x3sheet2gold_10: -759499777
+      x3sheet2gold_36: 826301359
+      x3sheet2gold_98: -1857439533
+      x3sheet2gold_91: -1364806646
+      x3sheet2gold_126: 220122533
+      x3sheet2gold_37: 240811179
+      x3sheet2gold_9: -981412111
+      x3sheet2gold_14: -1152562855
+      x3sheet2gold_107: -520111277
+      x3sheet2gold_104: -1059561973
+      x3sheet2gold_71: 406583119
+      x3sheet2gold_46: -345988138
+      x3sheet2gold_116: -1820550245
+      x3sheet2gold_15: -139403383
+      x3sheet2gold_42: -317175850
+      x3sheet2gold_5: 1454042404
+      x3sheet2gold_54: 641250205
+      x3sheet2gold_38: -615496730
+      x3sheet2gold_110: -1484508386
+      x3sheet2gold_119: -1061674057
+      x3sheet2gold_120: -1649874307
+      x3sheet2gold_0: -952464261
+      x3sheet2gold_83: -1279013981
+      x3sheet2gold_11: 518078778
+      x3sheet2gold_25: 1898612866
+      x3sheet2gold_121: 1372728033
+      x3sheet2gold_109: 1309375925
+      x3sheet2gold_79: -1031535492
+      x3sheet2gold_20: 203972688
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

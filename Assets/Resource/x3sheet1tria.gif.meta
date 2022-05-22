@@ -1,0 +1,3258 @@
+fileFormatVersion: 2
+guid: 6e3c6310de0ec8a4c807b61678a50130
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: x3sheet1tria_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 756
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dbb016149733949b32d59685d7e344
+      internalID: -1849304991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 756
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886d4ff803cf3384f8ba6f8c9b3298cb
+      internalID: -1818630606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 756
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66440cfc42b9caf42bc112ff2448bc82
+      internalID: -707230158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 756
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7826c8b1b80de4a428f19524ebe8c924
+      internalID: -762785964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 756
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce970a6122d2f4942a57f844fd07a899
+      internalID: 1033156427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_5
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 756
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e9f304e18ab154aa5ed2c579893d3d
+      internalID: -135616848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_6
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 756
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7359de785d9006649ba50284a7e2894c
+      internalID: 1446554697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 756
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5cced85367dc94d8836c7ebb8c4646
+      internalID: -1168731052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 756
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0112ca8f9e749fa4a8bb83b057221460
+      internalID: 314508758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_9
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 756
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3078e8866dc54104fbcf174183ceb3b1
+      internalID: -1408596062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 705
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d939d78fd1202643a27271657e510d0
+      internalID: -804021916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_11
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 705
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848107106bc5e5041a5af24c74a789f6
+      internalID: 808263228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 705
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf049dbdf12edc549a50a59ac27055ad
+      internalID: 278734297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 705
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bdfc1d712dca64d8f4da0d28cd3ccd
+      internalID: 193523552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_14
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 705
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6109acec7885e4c8307a995cbe2397
+      internalID: 1027905797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_15
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 705
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbb3d7a24286854b8e92e0fa7463741
+      internalID: 414031553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_16
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 705
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac0ddcc1c975604d97b022eec1cb4d9
+      internalID: -1624436666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_17
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 705
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d340e51b8af744aa9d0936b8e51fa9
+      internalID: 208928664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_18
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 705
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7417f7b70a371cb4bb637a092c78cb80
+      internalID: -565851210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_19
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 661
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe71cb3b0c66f5459ab2ccbd7d5fd65
+      internalID: 672807441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 661
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aad428a74db7bf4781e9db38d2cfe2a
+      internalID: 1144742686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 661
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce39f9ed9271de4a97ba0382b223432
+      internalID: -1167193127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_22
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 661
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa3505a33a86d047bd05468923859b8
+      internalID: 709498187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_23
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 661
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519221f3f6ef2ab4fbdc0a351e34a350
+      internalID: -732997404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_24
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 661
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bd62584e22aca4c95096c64ee9be7f
+      internalID: 463305422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_25
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 661
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8836d1ed19491f14f9522f788665a543
+      internalID: -1169149798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_26
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 661
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe0cf10f2d600241a9c93b8dcc285f1
+      internalID: 1811841735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_27
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 661
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddaf70366e633644cbdcff296bced668
+      internalID: 2099296789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_28
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 661
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5e005ee2d3df34b8d38cda0b5f1dea
+      internalID: 785116565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_29
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 661
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5867f99cbbaecc4f8c353c96e633856
+      internalID: 128586495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_30
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 610
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47106c84c8bbaf4d96b22ed07cc3b76
+      internalID: 364700570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_31
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 610
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf713540d50b964a9be0096c83e235d
+      internalID: 2135190489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_32
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 610
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92cc02b3dce9774aaa347b63a75af0c
+      internalID: 1898349414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_33
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 610
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6d2ceeb603c9e40b7d6b29f96c2115
+      internalID: 1246756697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_34
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 610
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fb6cfdafba9a14a94360d259ea47b6
+      internalID: -627895149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_35
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 610
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aca80b57dc0f2c45bab1f93d3b3bc5d
+      internalID: 1789139505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_36
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 610
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe664962b3b75354fba09dbae9001016
+      internalID: 1509198405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_37
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 563
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c636e71ee0b13a143b86d43c97929995
+      internalID: -1065346596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_38
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 563
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf5ca1544253cf4697c850d7f11ab40
+      internalID: -1719943669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 563
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b96777d4762ab741a9544562aa6768c
+      internalID: -2017304632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_40
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 563
+        width: 53
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663f8c92d2ed2c543b8c6b462e9333e3
+      internalID: 356542438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_41
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 562
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b91e73a6ecf06429014a1a524c220f
+      internalID: -768663249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_42
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 564
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17b087460a0345469d553e95d52583d
+      internalID: 163294990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_43
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 563
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffe664d765d69941b90c5ee5417d49f
+      internalID: 1853576840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 561
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00a1635c806f8a4391bb56d0e25b66b
+      internalID: -160326527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_45
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 561
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba9a876c8c86bb4f9506e9f448391d4
+      internalID: -1707555213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_46
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 561
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ef741dbee163349a26a792edbe84b4
+      internalID: -1786775632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_47
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 559
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d456b6c59a75c34dac8303c84251e06
+      internalID: 1594622158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 516
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd9424678a1d8b488e2e395e2d452b2
+      internalID: 1406132880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_49
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 516
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133b25dfcfbad7740bc3104d486a6227
+      internalID: -478722531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_50
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 516
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55337c616f4c3174d81622dcd861c4a8
+      internalID: -1478487309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_51
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 516
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a1337bbdd0f0145896ba2c9c430bc6
+      internalID: -815402696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_52
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 516
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d86ba64a52441b4687cd4d7fd1d38e2
+      internalID: 466873870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_53
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 516
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e68eef2203e274aa8e6d6c1cf26ee8
+      internalID: -1367499938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_54
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 516
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9699a3f4b69c2d34a9132fe81c0a7ab3
+      internalID: 1949918925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_55
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 516
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96955dc949d839448aa11b9530bdf90
+      internalID: -786959702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_56
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 516
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9deebdde8069a140b9a9445a4c81664
+      internalID: -835961208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_57
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 516
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7041b263fd553514a88c357a88fe8c18
+      internalID: 847855662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_58
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 470
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d7f7ceefb500a42a66f8adcaa57b27
+      internalID: -392353579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_59
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 470
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024736938a652f04da2efcc98d804a79
+      internalID: -973699495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_60
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 470
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4adb264a953cc2e4d8a464fe3a8d3ef4
+      internalID: 1660858615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_61
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 470
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6314e011ca4bc554ebb7027d62fb223a
+      internalID: 1176545634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_62
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 470
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7aa9366564e7c4daad6d71634f35c3
+      internalID: 819543840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_63
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 470
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c94bc1df705f242b0f5c7bdf96d5a8
+      internalID: 964441144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_64
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 470
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf31c138adb5da4883d094b530d1ba1
+      internalID: 123413357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 470
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7793cb8e3b381428583e4942237dac
+      internalID: -413111104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_66
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 470
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5adeb9c7eba1344875a56c76e58159
+      internalID: -904739742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_67
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 419
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d130b1c6a22416e419ccdf4bd07cfbbf
+      internalID: -1983246749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_68
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 417
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6184d9ca5ec1d4d850b54972a6f84f
+      internalID: -1634371667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_69
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 418
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d2eb38c64e3e04f9d0c8d9c6ecab9b
+      internalID: 1733587267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_70
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 417
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d613511a53b9a9d438dd06afe7b46652
+      internalID: 242141117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_71
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 418
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ee247b572384644bc76f8dc6bd68e7
+      internalID: 1836191816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_72
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 419
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9d496e4a344ab48b504ff9637180ae
+      internalID: 88483533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_73
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 417
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6a85a815f187543a3eb07f335c7069
+      internalID: 729779809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_74
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 418
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b7db04e22f34f4ea4f44b1537468ab
+      internalID: 766671552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_75
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 364
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2526d906fee2f764bbf45ebc8c96b9b2
+      internalID: -530876102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_76
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 364
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87af306a4583a614b95c2777bf459f47
+      internalID: 950071008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_77
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 363
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962cdf0a8b53b154db5ac6994504f7b5
+      internalID: -1779263888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_78
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 360
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d00b389bc6162e408feca55bb075f37
+      internalID: -1040683992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_79
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 364
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6911bd8a50e3040b4cef15cd086fc2
+      internalID: -1307608732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_80
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 360
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2327a41b3fa3b5243a4c0bdc20c7d1a5
+      internalID: -1856752308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_81
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 360
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e967457bc53f045a884d3fd3ab8099
+      internalID: -1536270645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_82
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 318
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbf60c87c2622a46985ea88ff3276b7
+      internalID: 78819194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_83
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 318
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a036a9f8d94b9469be918c80c59607
+      internalID: 392707801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_84
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 318
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5f1cd14fc1eb94ea31e37684c88027
+      internalID: 750397691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_85
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 318
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6117ec351455b49b4ae8f1992b76c8
+      internalID: -1133293573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_86
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 318
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b652a35b4a34be4a905a3bfcfe52a0d
+      internalID: -2061049868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_87
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 318
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddc3bf505c61be44983424013e6b8a3
+      internalID: 335388789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_88
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 245
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2406456346ca92f429af8cfceba2b5df
+      internalID: -242334310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_89
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 245
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af551ac5cbec0f34aab9541e3e9838d3
+      internalID: 65732239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_90
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 245
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18667223f2bd0e94cba377a09fe350db
+      internalID: -2060936521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_91
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 245
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f23f6a74aff00a4a8161cf415c907ee
+      internalID: 947065063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_92
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 245
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e225a1b522da5648844c2cb978acc58
+      internalID: 365605876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_93
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 245
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b410e70c367d1e4381ecdbbedd15394
+      internalID: 1486832680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_94
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 245
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90415c3c0974bb4baf296c83d678bec
+      internalID: -1719301185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_95
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 245
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2374d48e71cee7b49a03b7d4d92f488b
+      internalID: 1370791693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_96
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 245
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884174a8a88443f4d94c68d288d2bf43
+      internalID: -290944717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_97
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 252
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1649b95c54e2b3b4ca18611c7621c8bc
+      internalID: -2043242701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_98
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 245
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a322b8494a5155418b1091fabaa3eac
+      internalID: -783836698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_99
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 245
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30771aeb39fbdbf41ab6edb42e221d50
+      internalID: -769387485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_100
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 185
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abd0c47648dd0a489f596a0f6f4adc9
+      internalID: -1235332743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_101
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 189
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3e74110ddee694b8339f6c1d1d2083
+      internalID: -651388845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_102
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 184
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac03a0c4284ab3d4b916204a77a3a0f9
+      internalID: -81355160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_103
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 180
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a592a5d14f9ae8142b6d4637594ceb86
+      internalID: -2081573255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_104
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 181
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4b9fff6c7ac974aafdcf2b26550a63
+      internalID: 937819061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_105
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 179
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f300df465e75ec44a2bbf57b6ee3885
+      internalID: 1692078244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_106
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 177
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac3b63129940d84298456c71a2abecd
+      internalID: 1441823573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_107
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 176
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a14d0797dc2040458ea707747b8df23
+      internalID: -5254936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_108
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 178
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b201b9906efe7498c7536c3aa4b164
+      internalID: 334314267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_109
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 195
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f0b2a91a2747341b9a877f606d5138
+      internalID: -76834570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_110
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 178
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c0aa484eec32343827135b64d73596
+      internalID: -483871989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_111
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 176
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c841c32ae227d046afb62835358ec72
+      internalID: -1072646204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_112
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 122
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11cec4078a0da540b3bf053b236228a
+      internalID: 1249219075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_113
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 123
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f535a292d7cb0954f8da1c38dc8584a4
+      internalID: 842776648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_114
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 124
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0323bb4d48cf5146a28fc5110cd99d8
+      internalID: -524683571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_115
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 124
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb3cd99c07db7f468a94da2fe1c5db2
+      internalID: -1420216472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_116
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 124
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94178832d298504398ddfc73690db65
+      internalID: -984370540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_117
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 125
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d07f46422c0ac4c8e79c4db489587a
+      internalID: -22340664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_118
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 124
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57dc59f89fd7dd449908864043b92d3
+      internalID: 290979621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_119
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 125
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05771b283995b044ab95f99b5d2a526e
+      internalID: -1484867156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_120
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 126
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8da9548f889994e8826a7ff49b2fb3
+      internalID: -1138377815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_121
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 127
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa1faac8a840064da7c443a1704831f
+      internalID: -2044750153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_122
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 71
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528fd9154501eee4aa13fca02fe9e1b2
+      internalID: -1412605779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_123
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 65
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eee9b6308d8bac44a1927256ebd67cb
+      internalID: -1031019578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_124
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 69
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6f665f9cc946d44a5f6f33e957fda9
+      internalID: -166841882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_125
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 69
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba05b82a8b8a6c4f94d8c241414e799
+      internalID: 1050873478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_126
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 65
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a597102b5ec2e5489c337ab7cac0591
+      internalID: 670905893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_127
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 77
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830d7370c7b77b84ebb05e6e42dce60c
+      internalID: 168197062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_128
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 82
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e451dc9682020a4aae631fe831f0c5e
+      internalID: 718759060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_129
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 66
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4244be819f4ab4f9fa7c9cf7356d65
+      internalID: 1314706971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_130
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 72
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb2f600355b13645ae78f8fa808a40a
+      internalID: 1251032891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_131
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 73
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df80dde2875c71b4b84dd3a79f19e0e5
+      internalID: 523591831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_132
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 70
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423334c16decf1442b9cad997b75fa8e
+      internalID: 1429180735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_133
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 71
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4873a03886efd14abda37a947badc94
+      internalID: 499530693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_134
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 71
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5db82e33e9e9a44996aff0e4770ec7
+      internalID: 665190141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_135
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 71
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c94230f4df47546b57af6b84b07f25
+      internalID: -123485439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_136
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 12
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c755f9582b299684dbe13ec83e4cb340
+      internalID: 1429284860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_137
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 8
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a809eef0801cd438f2b3de241ca904
+      internalID: -567111873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_138
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 8
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21482c1515d47cd46bc6075102ca4868
+      internalID: 753692693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_139
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 8
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b601e5cc097b4944a541d483ee7f547
+      internalID: -1424386906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_140
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 9
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3472de8219a66ec45b8b6c93f07d6967
+      internalID: 1861334336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x3sheet1tria_141
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 9
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbef371741d0a3499f1069dcc451cb9
+      internalID: -113333844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      x3sheet1tria_94: -1719301185
+      x3sheet1tria_47: 1594622158
+      x3sheet1tria_137: -567111873
+      x3sheet1tria_101: -651388845
+      x3sheet1tria_87: 335388789
+      x3sheet1tria_108: 334314267
+      x3sheet1tria_91: 947065063
+      x3sheet1tria_107: -5254936
+      x3sheet1tria_55: -786959702
+      x3sheet1tria_99: -769387485
+      x3sheet1tria_110: -483871989
+      x3sheet1tria_2: -707230158
+      x3sheet1tria_7: -1168731052
+      x3sheet1tria_24: 463305422
+      x3sheet1tria_92: 365605876
+      x3sheet1tria_38: -1719943669
+      x3sheet1tria_77: -1779263888
+      x3sheet1tria_1: -1818630606
+      x3sheet1tria_124: -166841882
+      x3sheet1tria_84: 750397691
+      x3sheet1tria_95: 1370791693
+      x3sheet1tria_129: 1314706971
+      x3sheet1tria_136: 1429284860
+      x3sheet1tria_98: -783836698
+      x3sheet1tria_48: 1406132880
+      x3sheet1tria_86: -2061049868
+      x3sheet1tria_28: 785116565
+      x3sheet1tria_16: -1624436666
+      x3sheet1tria_121: -2044750153
+      x3sheet1tria_11: 808263228
+      x3sheet1tria_5: -135616848
+      x3sheet1tria_12: 278734297
+      x3sheet1tria_54: 1949918925
+      x3sheet1tria_138: 753692693
+      x3sheet1tria_10: -804021916
+      x3sheet1tria_40: 356542438
+      x3sheet1tria_0: -1849304991
+      x3sheet1tria_30: 364700570
+      x3sheet1tria_65: -413111104
+      x3sheet1tria_135: -123485439
+      x3sheet1tria_20: 1144742686
+      x3sheet1tria_70: 242141117
+      x3sheet1tria_139: -1424386906
+      x3sheet1tria_61: 1176545634
+      x3sheet1tria_117: -22340664
+      x3sheet1tria_102: -81355160
+      x3sheet1tria_41: -768663249
+      x3sheet1tria_66: -904739742
+      x3sheet1tria_83: 392707801
+      x3sheet1tria_112: 1249219075
+      x3sheet1tria_26: 1811841735
+      x3sheet1tria_42: 163294990
+      x3sheet1tria_90: -2060936521
+      x3sheet1tria_60: 1660858615
+      x3sheet1tria_128: 718759060
+      x3sheet1tria_126: 670905893
+      x3sheet1tria_34: -627895149
+      x3sheet1tria_19: 672807441
+      x3sheet1tria_21: -1167193127
+      x3sheet1tria_72: 88483533
+      x3sheet1tria_64: 123413357
+      x3sheet1tria_29: 128586495
+      x3sheet1tria_50: -1478487309
+      x3sheet1tria_141: -113333844
+      x3sheet1tria_131: 523591831
+      x3sheet1tria_59: -973699495
+      x3sheet1tria_105: 1692078244
+      x3sheet1tria_15: 414031553
+      x3sheet1tria_74: 766671552
+      x3sheet1tria_127: 168197062
+      x3sheet1tria_57: 847855662
+      x3sheet1tria_36: 1509198405
+      x3sheet1tria_89: 65732239
+      x3sheet1tria_82: 78819194
+      x3sheet1tria_130: 1251032891
+      x3sheet1tria_4: 1033156427
+      x3sheet1tria_85: -1133293573
+      x3sheet1tria_23: -732997404
+      x3sheet1tria_111: -1072646204
+      x3sheet1tria_8: 314508758
+      x3sheet1tria_43: 1853576840
+      x3sheet1tria_44: -160326527
+      x3sheet1tria_78: -1040683992
+      x3sheet1tria_116: -984370540
+      x3sheet1tria_122: -1412605779
+      x3sheet1tria_25: -1169149798
+      x3sheet1tria_68: -1634371667
+      x3sheet1tria_114: -524683571
+      x3sheet1tria_73: 729779809
+      x3sheet1tria_106: 1441823573
+      x3sheet1tria_13: 193523552
+      x3sheet1tria_62: 819543840
+      x3sheet1tria_96: -290944717
+      x3sheet1tria_88: -242334310
+      x3sheet1tria_97: -2043242701
+      x3sheet1tria_31: 2135190489
+      x3sheet1tria_134: 665190141
+      x3sheet1tria_118: 290979621
+      x3sheet1tria_9: -1408596062
+      x3sheet1tria_132: 1429180735
+      x3sheet1tria_125: 1050873478
+      x3sheet1tria_32: 1898349414
+      x3sheet1tria_115: -1420216472
+      x3sheet1tria_51: -815402696
+      x3sheet1tria_56: -835961208
+      x3sheet1tria_17: 208928664
+      x3sheet1tria_22: 709498187
+      x3sheet1tria_140: 1861334336
+      x3sheet1tria_80: -1856752308
+      x3sheet1tria_76: 950071008
+      x3sheet1tria_113: 842776648
+      x3sheet1tria_120: -1138377815
+      x3sheet1tria_33: 1246756697
+      x3sheet1tria_27: 2099296789
+      x3sheet1tria_67: -1983246749
+      x3sheet1tria_6: 1446554697
+      x3sheet1tria_39: -2017304632
+      x3sheet1tria_45: -1707555213
+      x3sheet1tria_3: -762785964
+      x3sheet1tria_18: -565851210
+      x3sheet1tria_49: -478722531
+      x3sheet1tria_69: 1733587267
+      x3sheet1tria_133: 499530693
+      x3sheet1tria_14: 1027905797
+      x3sheet1tria_63: 964441144
+      x3sheet1tria_104: 937819061
+      x3sheet1tria_71: 1836191816
+      x3sheet1tria_119: -1484867156
+      x3sheet1tria_79: -1307608732
+      x3sheet1tria_93: 1486832680
+      x3sheet1tria_109: -76834570
+      x3sheet1tria_103: -2081573255
+      x3sheet1tria_53: -1367499938
+      x3sheet1tria_37: -1065346596
+      x3sheet1tria_46: -1786775632
+      x3sheet1tria_100: -1235332743
+      x3sheet1tria_58: -392353579
+      x3sheet1tria_75: -530876102
+      x3sheet1tria_123: -1031019578
+      x3sheet1tria_81: -1536270645
+      x3sheet1tria_35: 1789139505
+      x3sheet1tria_52: 466873870
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

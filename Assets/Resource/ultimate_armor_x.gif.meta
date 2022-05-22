@@ -1,0 +1,6866 @@
+fileFormatVersion: 2
+guid: a6c7b7403edcd474c966f2e5ec139058
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ultimate_armor_x_0
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2265
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce8fa88217ad754dacb0e93982bbd45
+      internalID: 1490732965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2265
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4f096071a1ce74a87d13ce8bf92bdf
+      internalID: 1458252874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_2
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 2265
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f7d8287ce6bea42831d32bd257aa1b
+      internalID: -705148603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2265
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db7f927ab28c314a93ab38ef41dac9c
+      internalID: -280132134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_4
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2265
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f38f098ae391c4d9580ad5c18cd15d
+      internalID: 1612915430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_5
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2265
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dfddf460d6c0a489b14e4d8bd155b8
+      internalID: -516755334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2265
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42ae55f476deb7498a4fedf621f3a72
+      internalID: -16516693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2199
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e570448f9502e784fbf62a2b8c2fe175
+      internalID: 1825353716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_8
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2199
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544106cfcfaf2ba418fba1c30e9635fd
+      internalID: 1037587736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_9
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2199
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d426f53878a29428cbb98883566901
+      internalID: 1094082009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_10
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2199
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20378f0486567104f9434c9257783bac
+      internalID: 2104093092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_11
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2201
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4278ba6fd15f844be10941a62991df
+      internalID: -611129895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_12
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 2204
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9546ee147cc70284e9f0da4bd9ad847f
+      internalID: -760503063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_13
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 2202
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a1b1e853e38b94c868f920e8e26fcc
+      internalID: 2138410604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_14
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2200
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21651175f62466d4aa1f85082d2c5afc
+      internalID: -1368835395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_15
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2199
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155a4ce78a89da34694f7c90b9dd72e6
+      internalID: -1283564704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_16
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2198
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92329a45f0616541b345c0f40a87f63
+      internalID: -1801755827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_17
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2199
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fe40bcdece8984385ff1ded5a9ea81
+      internalID: 381560894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2142
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9754e1177a15f45a6cdea975600eca
+      internalID: 1394969939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2142
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dac4210d6388954690c5a77dbd1fbc2
+      internalID: 361886277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_20
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2142
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9d6235a68562542a510506883dc088
+      internalID: 848697810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_21
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2142
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbdf4f9ce6dd9949ad183e7bda9ac26
+      internalID: -2120083946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_22
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 2142
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e655efb12d1b06d4097c746d2e01e396
+      internalID: 2018168182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_23
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2142
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bf6bfdf62e5134eab22ed152f1b053
+      internalID: -1553903608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_24
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2142
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e398762356fe2c47ab36a67379aedd9
+      internalID: -1782232880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_25
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2142
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854806ed1c913cb4592cc4b347c8727d
+      internalID: -1758049596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_26
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2062
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e135cf2fb6d184b89ac2907b832cc4
+      internalID: 658290694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_27
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2058
+        width: 59
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3feb064d180ac469792f6edabcc29a
+      internalID: -92129726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_28
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2057
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef628738b46d742438a15f7915232cec
+      internalID: 1500525075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_29
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2122
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f092e84a78d14da4ea6f042bcc8e9b59
+      internalID: 1488319838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_30
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2131
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f06818331e3cb428bf4f2069c90cb4
+      internalID: -336902350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_31
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 2064
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd20558cb3b5a884383109ec2d846e88
+      internalID: -818116451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_32
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2064
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c236df6222b90a45ab7e638ffcdc55f
+      internalID: 455175359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_33
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2060
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496273efec3a55240b80322313ea8b0e
+      internalID: -1711833861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_34
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2116
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56f7a96e7b41e240803452099a65242
+      internalID: -1897160235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_35
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 2064
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1013c0cec42134bb0b850adf0efbd8
+      internalID: -150749878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_36
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 2105
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a92b3d349eda94dbedc421fb4b16aa
+      internalID: -782449870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_37
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2064
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a350f85d305a7445a251f898dc7b519
+      internalID: 1315770674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_38
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 2082
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3dc06d4f4cd634cae770e02a69a952
+      internalID: -1271670354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_39
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2007
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed551fa0678f254cb11c4e20847b263
+      internalID: -2051428931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_40
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2007
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706f71557a1d5ef498fd8554f0245c24
+      internalID: 840810894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_41
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2007
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19956a9b96ce319438972ae01a541f43
+      internalID: -1777125798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_42
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2007
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b88e2dc3ed95a74ca9a2d21fea50cf2
+      internalID: 239921828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_43
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 2007
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e6f18fb488ede4282a86bf63bb6347
+      internalID: 1557786174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_44
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2007
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132f0f4410eeab9418169257d6fd8d41
+      internalID: -1555000316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_45
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 2007
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ef06cfe7319784e9b0047a0de13cbc
+      internalID: -779531781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_46
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 2006
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae0b25cba1dbc64f94fd4a69eb8a031
+      internalID: -107009804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_47
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1950
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1795e32cba0cc64aa97662fca1b6774
+      internalID: 2016335648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_48
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1947
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93429b82d78fdd741954643c908a3685
+      internalID: -94213604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_49
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1947
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea23d07bde803934e80700726e2bf289
+      internalID: 869779803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_50
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1947
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbd9b34cb35bb44b94fd2397ff1095b
+      internalID: 747774739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_51
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1950
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38abb884e26c4724e81c418003903fb2
+      internalID: 2065133199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_52
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1947
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b00a457983cd2444949191995abd447
+      internalID: 1017181646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_53
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1947
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a4af584b6e6a34b88534da169cd27b
+      internalID: 519428560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_54
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1947
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdaea975351ef324791dbe229b35ce7c
+      internalID: 912149266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_55
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1895
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e868c381f75614a9ac79105ad44d9a
+      internalID: -843408996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_56
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1894
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e237b3bedc42e1848b459b5eaebd22b3
+      internalID: -1840447535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_57
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1895
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aca280da2029cf42b877875da6c03b6
+      internalID: 1275399712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_58
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1893
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2cf0f4ad6258f418372651411cbd11
+      internalID: 437833155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_59
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1894
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad91f0f5e5dacf4aa3fcdf64bb47f59
+      internalID: -883038447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_60
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1894
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c26cd007ae04924387ebc077e530f57
+      internalID: -525426176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_61
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1894
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6d02cb5f11d3546a98d8ff7f237074
+      internalID: -1916891079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_62
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1895
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f587c16b400db46a3b4f795f2d66e5
+      internalID: 1389697364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_63
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1826
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f414256c863cae2428bfa639fb0b508b
+      internalID: -1743536586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_64
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1827
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d387dcce1db254a9f6c83c74e88efe
+      internalID: -553665811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_65
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1825
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0122a9e488b1b0949a006c3e1427da02
+      internalID: -1376276644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_66
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1824
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22260e8cd203ea74c8793ff01e6b0a94
+      internalID: -1955755238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_67
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1826
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6941071a35e394284180f7aee351ae
+      internalID: 1125145340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_68
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1825
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0d1f05b2efd6a44be74e87fb9ea1e6
+      internalID: 2109246436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_69
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1826
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b29f5bce138e245a70e147419f39cb
+      internalID: 1734806423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_70
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1825
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da45f3d7ea7156746a210feac505c31b
+      internalID: 1660860965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_71
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1826
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bd3ef272190f146835011ce38ce009
+      internalID: 206695902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_72
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1768
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c3234783cae8a4e81388b84b80d052
+      internalID: 76883177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_73
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1766
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f739954cc51af9409fc06fa6466427e
+      internalID: 90962355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_74
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1766
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20552cc93cf3ee845966bd4e0f680124
+      internalID: 691215136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_75
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1768
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0148401601d7628448dab2bff9b56885
+      internalID: -2135612437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_76
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1767
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5edf9733b6421f449c8c133528af7a0
+      internalID: -1216460930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_77
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1765
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6d39e58ddd7db4ebe42f8630587a87
+      internalID: -574055255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_78
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1705
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af7e195ef347e94cbb5107251344020
+      internalID: -1735552880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_79
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1705
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c800ae04feb47f4bacfe90b74092ae3
+      internalID: -813717013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_80
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1702
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3293366398bf9f45a16c03361d32e42
+      internalID: 65043218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_81
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1702
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3727fc25163a4d448b161c58cf0c023
+      internalID: -296431611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_82
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1700
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed95f23170b8d0744970bcb0f0cc377f
+      internalID: -53459190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_83
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1699
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6ef18af5bc06a44ab352f3b294bf5d
+      internalID: -1359476528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_84
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1697
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d528e20fa95d9e49bbafdc87f3fa3c2
+      internalID: 58692725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_85
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1697
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72dde8cf944f174ea1dc9cafe357e2d
+      internalID: -2112789425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_86
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1699
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2548ff1de84334fa8fef7b730c9484
+      internalID: -2055298031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_87
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1699
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9304b2ca379067b4c87a3e297aea7fb7
+      internalID: -1765542707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_88
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1702
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5453fed4e1a7b5b45bbc63e2328fd48b
+      internalID: -135239091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_89
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1702
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7ec284d280e6746a6bdafe7fb050d6
+      internalID: -1419386167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_90
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1634
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad8986722fb05f45a7cbbaf3380cfbd
+      internalID: -343068293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_91
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1634
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fe9bef3311baf40b8f8f301fc608cd
+      internalID: 53089808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_92
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1633
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6344ee2b0d783a544bb4a157c60f313a
+      internalID: 1025053142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_93
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1633
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312c24be5f3a73941b18bfae4bfc987b
+      internalID: -711880421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_94
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1636
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1506f043035ed43abb471c3f2cf900
+      internalID: -2112408732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_95
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1636
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c811c107c3a3b4798fd295400a848d
+      internalID: -1032952834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_96
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1634
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3891591165ce38e41861be4a4ae85257
+      internalID: -158260696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_97
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1634
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af238a20587c4704d9bc03e9bfe2d16e
+      internalID: 987945253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_98
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1634
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29b0c36524ccbf43bc688fb32ad4490
+      internalID: 1536861623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_99
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1634
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a041f2e62ef01bb49803110f18c6d55c
+      internalID: -542605740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_100
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1581
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fbb946f6689bc4196cbeddcec4b5e9
+      internalID: -1959243968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_101
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1581
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1889091a0526c6d4cb99814fbc082ef7
+      internalID: 294471050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_102
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1581
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdde4e02ab13444281ae23cd24735ba
+      internalID: 1259483052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_103
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1580
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc37d2cc2b1d664e90d88e9674bb0d8
+      internalID: -34289582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_104
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1580
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b9377b091ac9840a4f74c6df8d4349
+      internalID: -592156885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_105
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1580
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de5fc423d6371b4d96b1431371c60b6
+      internalID: -694223551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_106
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1581
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30a0bd8a38b4844b9b398be7961f531
+      internalID: -921056522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_107
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1581
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625f248142b2d9a4a95b2d702aac2e51
+      internalID: -1315528614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_108
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1528
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4f5263586f0e94db08ce34d15ed1a3
+      internalID: 2147004290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_109
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1528
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b7bf39af80385429dd0bfcee77b62b
+      internalID: -225648519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_110
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1528
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c602274755943439d895cd059ef91a
+      internalID: -1332320561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_111
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1528
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4a71ad828a1f44ca2aa98626f3a895
+      internalID: -1993283334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_112
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1528
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0431f5b5a8368f4f88629a4973182da
+      internalID: 1052821985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_113
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1528
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469457e1b33137143b63dc0d9290ae58
+      internalID: -1575892935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_114
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1528
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ac3ed3948dd5c4695efa30cf0bd835
+      internalID: 11866426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_115
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1528
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6665830ec44fae40b01977a9bd46ebd
+      internalID: -1914894447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_116
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1472
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd15a86fd723934a97080615b46cbc3
+      internalID: 1176723601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_117
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1472
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498703229fed01f4db64457c7c051e60
+      internalID: 1739833811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_118
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1472
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cb34d549c5bc248b4864ec4478534e
+      internalID: 28541687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_119
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1472
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474d4169e175c3f49836a9628f2ad8d9
+      internalID: -1329055353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_120
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1472
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c774872ac28b6b541ba797bad19ff8d7
+      internalID: 1147278208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_121
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1472
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92338c1e871e0146ae0cca64d1391a0
+      internalID: 1632844075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_122
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1472
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a676b8b07a4e854d8ce66b853da4943
+      internalID: 101923365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_123
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1472
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193cc687443f5e0498f703307dc41185
+      internalID: -574579061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_124
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1413
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f618127edf056f4492a912740784213
+      internalID: 936775766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_125
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1413
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ee89ba494d94047b2a60adef624cee
+      internalID: 957125733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_126
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1413
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4681097ca94c98b4ab09de4549d6bbcc
+      internalID: 1420224904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_127
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1413
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056e36bfcd0a0774b8c8b8638355d9ff
+      internalID: 421528147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_128
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1413
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdff1b832e8f9e24ba427fe2b9fab20f
+      internalID: -1722697647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_129
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1413
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce417b2737027649becfec39d74f80e
+      internalID: -1294254250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_130
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1413
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb1d9e2646d5c24f921a382e165ef03
+      internalID: 156550229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_131
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1413
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c12907fbb02cf42b4b0726b370e862
+      internalID: 50049940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_132
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1362
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06743e42756126a49bd47ca4496dafc2
+      internalID: -1126562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_133
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1362
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39b432ee254b3b44b0c0a771161dff4
+      internalID: -1059205150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_134
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1362
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d088c4e3e6ee0a1499478cf1c67f2a8b
+      internalID: -46796042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_135
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1362
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e90be5fb68f4345864392564db9cfe
+      internalID: 843539130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_136
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1362
+        width: 65
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0a949a3e3f44d45ac04225a7b14fb2
+      internalID: 1357378051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_137
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1362
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331f1fb6909184041a52ca6eef6b6355
+      internalID: 544258181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_138
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1362
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604d8d343a3050441bf89316608c3ef1
+      internalID: -346066722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_139
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1362
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46e13e4545ecba48b23c3b5102473bf
+      internalID: -66598731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_140
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1306
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ede705b0ae51cc4b85febde22613a74
+      internalID: -331582021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_141
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1306
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4281a69801b9b5e438064b34db7deb86
+      internalID: 1347311670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_142
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1306
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5669e51f38472343bbab9dc6e9a9937
+      internalID: 2024711653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_143
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1304
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362d9dd8f9973b949b44a2e18fd98d72
+      internalID: 740418293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_144
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1304
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46c6d1d518079648af84b2c2a1800ef
+      internalID: 1732190661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_145
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1304
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa470529a228f844c939486833113169
+      internalID: 1401064998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_146
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1304
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262ea7a2dbee0ae43b02039083fa6aaf
+      internalID: -1172111696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_147
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1304
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92171f6f14d6c95479bda7cced9703a9
+      internalID: 2146475881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_148
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1236
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349d6dbe028e29c48bffd794a9476ba8
+      internalID: 1320555997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_149
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1236
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484788bf31b998d42ae43744a16cfd84
+      internalID: 123288351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_150
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1238
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac2c10da17ede24eac2bd14a4bb2c2c
+      internalID: 1902213258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_151
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1238
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b46c4c753d37d49bb950feaa41e4dd
+      internalID: -254684638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_152
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1240
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276491ffcfdd23b45b773c8e8c15a09f
+      internalID: -2113500217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_153
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1240
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344137d4702959a42ba5a24952ae0e29
+      internalID: -913064561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_154
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1232
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8d03ce2b930364596604c6f7a9967a
+      internalID: -1586612274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_155
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1233
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b761af1aec234e41826a36522020ea6
+      internalID: 676384548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_156
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1235
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f157c58090b9eca46961099aef08623c
+      internalID: -1845867766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_157
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1235
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aba36d18bdba6c41b19496f76f81cb6
+      internalID: 1487777535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_158
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1236
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5714540826335c74ea3d4e1c9f699b4f
+      internalID: -2085481604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_159
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1236
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0580f9649df388f419a7d5c4bb227f42
+      internalID: 196333935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_160
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1164
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91a08606175efd489270e210be3d557
+      internalID: -233697256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_161
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1164
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad65e8eed27842249b87d7e6c76c22c1
+      internalID: -1529211394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_162
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1166
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0830bd4823b7df448291ef1cbda5ac8
+      internalID: -2005032621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_163
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1166
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03412ff8651702b4c8e3f414629b606b
+      internalID: 1120565212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_164
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1168
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b339eced70170454f92e4497f07a52af
+      internalID: 1198292820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_165
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1168
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8904cd95fca6664e8b2d968b85733da
+      internalID: 1714737374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_166
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1176
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0a7527feace6d439313b836c28e1c0
+      internalID: 1032948754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_167
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1176
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298018fa7bc7586428d0ff55bb611e2b
+      internalID: 1999845060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_168
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1175
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63199ef77f9c42e4ba6b66cf11f6b4d2
+      internalID: 2063596055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_169
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1175
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55076ce695192704d85f82d4650c3950
+      internalID: 545718775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_170
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1175
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba748086d6c05b4caf567b150531e71
+      internalID: 1017131179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_171
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1175
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef2cd66cb5b67f47a6c551bef36cb65
+      internalID: 110732229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_172
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1109
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9884d95743e294b877f5fb507f6a94
+      internalID: -241059547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_173
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1109
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1178a021f30aa96458c49b0fc1846ec6
+      internalID: 2104185071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_174
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1111
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdb667cde2bed94f940ca55386bbdf4
+      internalID: -1289223496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_175
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1111
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c668dd04188002d4b8cd687aba600f8b
+      internalID: 2099009537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_176
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1111
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b165b131ca83934889c1315ef861eee
+      internalID: -1897236704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_177
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1111
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496c272197b8e7541a17391b76882ccd
+      internalID: 205526527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_178
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1047
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d54937694b51d94fa70bb56ebed8619
+      internalID: 1849678492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_179
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1046
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c2d6915677f13499180e252cb2a894
+      internalID: -686714349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_180
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1047
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e459a69fbddcac43b0aeea4f2f4260f
+      internalID: 2064370282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_181
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1045
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb5cb039e1578545829531816eeab76
+      internalID: 688332002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_182
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1046
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344984aaee4977d439122b1d7733252a
+      internalID: -572065703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_183
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1045
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cadf922d83067a4b93263b12b087cad
+      internalID: 1097748211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_184
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1046
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c78e770a327c1438cedf9d40df5153
+      internalID: -2063404384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_185
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1046
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c7b1a1d52f5494498bcdd25fc2822d
+      internalID: -135154914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_186
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1044
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2c533886a418141a826fc7ee853e74
+      internalID: 532169124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_187
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1044
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6263244fe5bc8418b5b870d7810a4d
+      internalID: -397623826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_188
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 979
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687594dd7e54696449133402d792d83d
+      internalID: -1536425488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_189
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 979
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9ea6b7772b4474784c703672e62d06
+      internalID: -1297806550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_190
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 978
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c031c7edc7e72446a31bb685595c7d3
+      internalID: -1253341060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_191
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 978
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de64a7c019c32c4e9d739857e3bfd0d
+      internalID: -1610211382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_192
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 981
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1071eed1c8a3d0c4889fccb8c39e8018
+      internalID: 114744573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_193
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 981
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcefc82f25e59245b36f95ce3dcb892
+      internalID: 1652812009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_194
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 981
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74308a999d829c4da4992b7e34b10ae
+      internalID: -155924104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_195
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 981
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d41474ecd68f34992775b63eece83b
+      internalID: -1272068301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_196
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 894
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be3674fae406b74ea4483bf2ca02caa
+      internalID: 1504365236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_197
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 897
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7116f5118a1e54240beaa6034d8fa2a9
+      internalID: -103465345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_198
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 901
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa76d420d489af4dac4bd3c89299993
+      internalID: 2032462963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_199
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 897
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fb7b30bba939949bf2b4d7819207f4
+      internalID: -1943023304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_200
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 897
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797904a3bae38e447be4ca13c59c2e6e
+      internalID: 2018188567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_201
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 900
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780cc355fdda40a48a2d514c36d7b6a4
+      internalID: -751644657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_202
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 899
+        width: 71
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fa7697b1315014fa99fc79b3370021
+      internalID: 1541793507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_203
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 904
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0e862c00ca7b040b90faf282116df9
+      internalID: 955716622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_204
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 925
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cec570854a72e4b97a70ea87e74994
+      internalID: 885938411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_205
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 931
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08fd80abb84b3d439f0fad4ce4801ce
+      internalID: 435007971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_206
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 896
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df210f6098e3719468a2e39a8c44956b
+      internalID: -373128490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_207
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 896
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc438a419cdc4d14db1d98a12727268e
+      internalID: 283142053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_208
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 899
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406916646f83b0d4ab549f258b887c02
+      internalID: 1796687192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_209
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 821
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f2e451a2a817248b2edc534731706d
+      internalID: 793266040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_210
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 821
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af51ee8068dde4b4f98c8f0fe76c004b
+      internalID: 1588888065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_211
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 821
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0b0d4ac8dcac64e9b10ce293eb506b
+      internalID: -1971105578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_212
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 831
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df344bc0c1281834292e9ed84c13edd3
+      internalID: 776155187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_213
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 828
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695ff471b718edc4896f1acfcc2e3ae9
+      internalID: 1716651305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_214
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 828
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fa8be1f36d38542893a5eaf32fbdf8
+      internalID: -449612872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_215
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 827
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5b759fd86c5d84d87e18e8054659da
+      internalID: -809813885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_216
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 825
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8875bee644c2fda45a2dd82f77d63dd1
+      internalID: -901629262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_217
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 823
+        width: 125
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25586ef3e704852439867ec18a11cfd8
+      internalID: 319667907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_218
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 758
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ce8893c93796c4ea04f962cd8bc997
+      internalID: -1091611870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_219
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 758
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4668f8526c4054aabb2b7ef7827874
+      internalID: -1707761584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_220
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 751
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c57767b0fba1f419afe199ed3afa97
+      internalID: 409366266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_221
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 752
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b284d3c8a45ff86439b70bb1e7551baf
+      internalID: 1620076660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_222
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 757
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9552f1eab55f1d94595284900a124783
+      internalID: 1994009367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_223
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 757
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9815747c03db75d498d776e5c1e25420
+      internalID: 792161012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_224
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 757
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f46d4f982d8ce438a7121d1777b18a
+      internalID: -1062806537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_225
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 757
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aaa51969becaf14d9faf66044bcd008
+      internalID: 1970629540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_226
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 757
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a4fdda74570ad4f904d1448a03fb1f
+      internalID: 767950120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_227
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 757
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57358d1c73c0f2e4fad83500e0ce5069
+      internalID: 1246653475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_228
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 666
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabfd17060e336040b5b8ec63bad171a
+      internalID: 12445166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_229
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 668
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c2e0ad67323444ebc67962f285a7e4
+      internalID: -1981684553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_230
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 671
+        width: 52
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021d4a6771baa5847ab4a620b6123b88
+      internalID: -1286728937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_231
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 721
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac7fe22d3c626b47a4f46571dadfe30
+      internalID: -1925823300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_232
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 671
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0536899eb694c48bba7d296d88e22b
+      internalID: 1927907963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_233
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 675
+        width: 9
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c46ca63fed5a8044a01f95c1c05af07
+      internalID: 780998362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_234
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 666
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0739ba3fdb44a84aaafb34a6a399b90
+      internalID: -105243311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_235
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 666
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd4baf34746cf942a0bf15660a6412c
+      internalID: -2098468890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_236
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 667
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e7f7ad480e6b54f8fa65eac61eaeec
+      internalID: -957093786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_237
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 666
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3f751904648624cbdf84caa62c1532
+      internalID: 7685656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_238
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 709
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c1362da101fd848be3d98ed01146a6
+      internalID: -1492486182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_239
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 666
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b8d4409ebdd1f4193479a0715535d5
+      internalID: 698766664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_240
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 696
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a81c8e31c7e714bb952b590c7e79eb
+      internalID: 1246190750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_241
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 699
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bacb6fd8f823874d8c6dfa881dabbe9
+      internalID: 794427985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_242
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 698
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac864f29f393c0b48b6bd40fe55c3af6
+      internalID: -516211661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_243
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 671
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a541d99f92d5b41968f92e382c2e03
+      internalID: 1964384236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_244
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 683
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433d0d7775568374dae056a3ad737388
+      internalID: 1349893864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_245
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 672
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd444700d82db504ca70ed74caa9ceb4
+      internalID: 1326861857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_246
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 670
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9d7d93ba1bb6e4bb6731e7825e5752
+      internalID: 1276005406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_247
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 595
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40aabc910005b6a48acee3527d52066d
+      internalID: 979460939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_248
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 597
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21fd5626b10a9f47ac3d773ba272bd2
+      internalID: 1605399889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_249
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 598
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee93342565032c64c9ffd154b65aa3de
+      internalID: -1009332665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_250
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 598
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91562b218b691f14ba88fd3534d0d23f
+      internalID: -2086173815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_251
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 594
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9130a48059a94a469697d4d55fbcac6
+      internalID: 1316163335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_252
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 587
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bba03dff77f35419349303b10b1985
+      internalID: -1118379288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_253
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 583
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f6e5696a7c0b94d8e4db6d4735e883
+      internalID: 377744241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_254
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 503
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfac74e853a2bcc45bfe61f6f44086eb
+      internalID: 941445663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_255
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 502
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd5a810751abc34e814d1af370b3e46
+      internalID: -1022552291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_256
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 501
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98b6f7843fbb1d4a8e7cfcdf0970b12
+      internalID: 530475950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_257
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 549
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187356fde1fe51f41ba628f53cb0e69e
+      internalID: -200781363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_258
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 521
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2e0a10d7003dc4680987c308594478
+      internalID: -1080190987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_259
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 521
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fccb11f05c98246b89d6ca0886af31
+      internalID: 373735345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_260
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 521
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06927b2689533c347ad240350cb4331f
+      internalID: 823229683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_261
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 521
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4524578fad7b22a44b1732d355599f74
+      internalID: 1039511647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_262
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 409
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b679ce2ff2e104b800d347792607f0
+      internalID: -1831844591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_263
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 409
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b78cb6dcb720842a53e47401aa14c3
+      internalID: -905685159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_264
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 409
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17903e8832b91e4ea0ec1be74937202
+      internalID: -239880758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_265
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 409
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad92a0e2e6f43784a8f71604d552a5d9
+      internalID: -788047021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_266
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 409
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae9b948882ba534db09ae450e0fd631
+      internalID: 1411612162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_267
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 409
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ab5a50f7e9f424692f93672758388b
+      internalID: 1866369598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_268
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 409
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ee83b77831b724ebdc243e9df4819b
+      internalID: -1135661776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_269
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 409
+        width: 32
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a6d80c4b299ba43b6b51ab8fa48a47
+      internalID: -658748456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_270
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 409
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47ce68f2a1e80b41b3ad8cac2717e7d
+      internalID: -803175503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_271
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 414
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793ce94d8d9d14c44a53696755e609c0
+      internalID: -1219826430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_272
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 413
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3622d2ffa19b043ba0f378cb097372
+      internalID: 59531843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_273
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 412
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951d9c4f0666a454d9ccaa35bdaabac4
+      internalID: -2060839721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_274
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 414
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff82cd8bc71a7944cbe6392dedfa215f
+      internalID: 2018910637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_275
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 325
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5020d8ed4b7d7488332874d44aec45
+      internalID: -840329223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_276
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 324
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc847b6b2513b704eb156b854cb2df37
+      internalID: 188195593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_277
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 324
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c512721af8f17214a9a4bdf3028c1dfc
+      internalID: 811785881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_278
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 324
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97139ed9ac4db294d957cad1b4c52cdb
+      internalID: -65207315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_279
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 324
+        width: 97
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b6e904dcfd0ee479526a3c67d373ca
+      internalID: 1427079521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_280
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 316
+        width: 105
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9a26816b5e29a48b9801e48217ccbb
+      internalID: -1996814038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_281
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 315
+        width: 105
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf67c9e5a2b0bf49a28a84dbc4e17ca
+      internalID: -163684101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_282
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 248
+        width: 103
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb03cb72b334294e85af5f874ae4e83
+      internalID: -986252562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_283
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 251
+        width: 72
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f989ae2ea47f2e04a8cabc152e00d70e
+      internalID: 409156769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_284
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 256
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4029b451b59570b44bb401af0486b879
+      internalID: 1756169323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_285
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 258
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90c4a1773d3f3d4293556ff961a4070
+      internalID: 1880471163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_286
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 260
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2ebc7c5e0d9c34a96cc195e2deff02
+      internalID: -1193255901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_287
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 260
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24b1ef5bd8532943a68ee4075d63ad9
+      internalID: 2137500748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_288
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 260
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6dd49bfc9888c4fbec6eb7bd75e1ba
+      internalID: -1257490639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_289
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 260
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00bc2e447e4a1443a579bb34928cb4f
+      internalID: 1706793773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_290
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 176
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb40e48b6f88d044995e0f9c862ea54
+      internalID: -1448162492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_291
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 179
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe3697751a436a49b08a35ff7e0ceb7
+      internalID: -2021013472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_292
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 175
+        width: 83
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d267aa1259b1bf3409488cda6a672552
+      internalID: 1888125354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_293
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 179
+        width: 101
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cc65c20d949474fa93af1b06f99ec5
+      internalID: -1869777037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_294
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 181
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29541b7a862cf324c8dc71b558b48286
+      internalID: 215353883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_295
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 180
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afc12ea171835c47a2d7b94951430c0
+      internalID: -345111982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_296
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 176
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4efb1df144b4848a70f0713a14b7ae
+      internalID: -1104577413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_297
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 103
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82e3b4f1eb2803409a382195e9167eb
+      internalID: -66694450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_298
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 103
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce900f3cf6d97a45aff84db1fdd6989
+      internalID: 316426563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_299
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 103
+        width: 92
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03b8bbe5d0c00e4cae349a9a61768fe
+      internalID: -707882358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_300
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 103
+        width: 93
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ff33dadb65a7447a6b3ea9ea724138
+      internalID: -1047072420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_301
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 27
+        width: 94
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fe9b6b8a7d87e42985f369673fea36
+      internalID: 149836616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_302
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 31
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad937ed42439b34f854bd6991019e51
+      internalID: 1638553753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_303
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 28
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4b873088e00c04a90756b040eb9a03
+      internalID: 2105493293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_304
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 29
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fe935777e04194ab502d84b24dc5c1
+      internalID: -1989054317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ultimate_armor_x_305
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 30
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505ccc1cf037ee044aafa6b46082bfb6
+      internalID: 1433653676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ultimate_armor_x_229: -1981684553
+      ultimate_armor_x_263: -905685159
+      ultimate_armor_x_100: -1959243968
+      ultimate_armor_x_163: 1120565212
+      ultimate_armor_x_253: 377744241
+      ultimate_armor_x_38: -1271670354
+      ultimate_armor_x_219: -1707761584
+      ultimate_armor_x_133: -1059205150
+      ultimate_armor_x_251: 1316163335
+      ultimate_armor_x_21: -2120083946
+      ultimate_armor_x_137: 544258181
+      ultimate_armor_x_185: -135154914
+      ultimate_armor_x_285: 1880471163
+      ultimate_armor_x_161: -1529211394
+      ultimate_armor_x_18: 1394969939
+      ultimate_armor_x_91: 53089808
+      ultimate_armor_x_123: -574579061
+      ultimate_armor_x_28: 1500525075
+      ultimate_armor_x_115: -1914894447
+      ultimate_armor_x_225: 1970629540
+      ultimate_armor_x_55: -843408996
+      ultimate_armor_x_252: -1118379288
+      ultimate_armor_x_90: -343068293
+      ultimate_armor_x_53: 519428560
+      ultimate_armor_x_112: 1052821985
+      ultimate_armor_x_54: 912149266
+      ultimate_armor_x_257: -200781363
+      ultimate_armor_x_93: -711880421
+      ultimate_armor_x_113: -1575892935
+      ultimate_armor_x_8: 1037587736
+      ultimate_armor_x_186: 532169124
+      ultimate_armor_x_61: -1916891079
+      ultimate_armor_x_131: 50049940
+      ultimate_armor_x_212: 776155187
+      ultimate_armor_x_223: 792161012
+      ultimate_armor_x_288: -1257490639
+      ultimate_armor_x_200: 2018188567
+      ultimate_armor_x_178: 1849678492
+      ultimate_armor_x_62: 1389697364
+      ultimate_armor_x_230: -1286728937
+      ultimate_armor_x_214: -449612872
+      ultimate_armor_x_95: -1032952834
+      ultimate_armor_x_208: 1796687192
+      ultimate_armor_x_99: -542605740
+      ultimate_armor_x_48: -94213604
+      ultimate_armor_x_243: 1964384236
+      ultimate_armor_x_211: -1971105578
+      ultimate_armor_x_249: -1009332665
+      ultimate_armor_x_24: -1782232880
+      ultimate_armor_x_303: 2105493293
+      ultimate_armor_x_227: 1246653475
+      ultimate_armor_x_86: -2055298031
+      ultimate_armor_x_120: 1147278208
+      ultimate_armor_x_248: 1605399889
+      ultimate_armor_x_111: -1993283334
+      ultimate_armor_x_51: 2065133199
+      ultimate_armor_x_265: -788047021
+      ultimate_armor_x_188: -1536425488
+      ultimate_armor_x_57: 1275399712
+      ultimate_armor_x_205: 435007971
+      ultimate_armor_x_50: 747774739
+      ultimate_armor_x_173: 2104185071
+      ultimate_armor_x_9: 1094082009
+      ultimate_armor_x_235: -2098468890
+      ultimate_armor_x_149: 123288351
+      ultimate_armor_x_290: -1448162492
+      ultimate_armor_x_35: -150749878
+      ultimate_armor_x_292: 1888125354
+      ultimate_armor_x_25: -1758049596
+      ultimate_armor_x_287: 2137500748
+      ultimate_armor_x_241: 794427985
+      ultimate_armor_x_88: -135239091
+      ultimate_armor_x_30: -336902350
+      ultimate_armor_x_179: -686714349
+      ultimate_armor_x_153: -913064561
+      ultimate_armor_x_247: 979460939
+      ultimate_armor_x_279: 1427079521
+      ultimate_armor_x_110: -1332320561
+      ultimate_armor_x_259: 373735345
+      ultimate_armor_x_64: -553665811
+      ultimate_armor_x_276: 188195593
+      ultimate_armor_x_156: -1845867766
+      ultimate_armor_x_109: -225648519
+      ultimate_armor_x_233: 780998362
+      ultimate_armor_x_201: -751644657
+      ultimate_armor_x_41: -1777125798
+      ultimate_armor_x_72: 76883177
+      ultimate_armor_x_167: 1999845060
+      ultimate_armor_x_83: -1359476528
+      ultimate_armor_x_164: 1198292820
+      ultimate_armor_x_207: 283142053
+      ultimate_armor_x_7: 1825353716
+      ultimate_armor_x_98: 1536861623
+      ultimate_armor_x_232: 1927907963
+      ultimate_armor_x_127: 421528147
+      ultimate_armor_x_125: 957125733
+      ultimate_armor_x_14: -1368835395
+      ultimate_armor_x_44: -1555000316
+      ultimate_armor_x_96: -158260696
+      ultimate_armor_x_16: -1801755827
+      ultimate_armor_x_108: 2147004290
+      ultimate_armor_x_154: -1586612274
+      ultimate_armor_x_176: -1897236704
+      ultimate_armor_x_296: -1104577413
+      ultimate_armor_x_281: -163684101
+      ultimate_armor_x_13: 2138410604
+      ultimate_armor_x_274: 2018910637
+      ultimate_armor_x_302: 1638553753
+      ultimate_armor_x_82: -53459190
+      ultimate_armor_x_56: -1840447535
+      ultimate_armor_x_0: 1490732965
+      ultimate_armor_x_2: -705148603
+      ultimate_armor_x_254: 941445663
+      ultimate_armor_x_174: -1289223496
+      ultimate_armor_x_102: 1259483052
+      ultimate_armor_x_194: -155924104
+      ultimate_armor_x_275: -840329223
+      ultimate_armor_x_135: 843539130
+      ultimate_armor_x_222: 1994009367
+      ultimate_armor_x_101: 294471050
+      ultimate_armor_x_20: 848697810
+      ultimate_armor_x_198: 2032462963
+      ultimate_armor_x_26: 658290694
+      ultimate_armor_x_182: -572065703
+      ultimate_armor_x_155: 676384548
+      ultimate_armor_x_228: 12445166
+      ultimate_armor_x_299: -707882358
+      ultimate_armor_x_68: 2109246436
+      ultimate_armor_x_87: -1765542707
+      ultimate_armor_x_116: 1176723601
+      ultimate_armor_x_77: -574055255
+      ultimate_armor_x_260: 823229683
+      ultimate_armor_x_297: -66694450
+      ultimate_armor_x_79: -813717013
+      ultimate_armor_x_269: -658748456
+      ultimate_armor_x_11: -611129895
+      ultimate_armor_x_34: -1897160235
+      ultimate_armor_x_114: 11866426
+      ultimate_armor_x_189: -1297806550
+      ultimate_armor_x_283: 409156769
+      ultimate_armor_x_262: -1831844591
+      ultimate_armor_x_134: -46796042
+      ultimate_armor_x_195: -1272068301
+      ultimate_armor_x_239: 698766664
+      ultimate_armor_x_183: 1097748211
+      ultimate_armor_x_244: 1349893864
+      ultimate_armor_x_32: 455175359
+      ultimate_armor_x_301: 149836616
+      ultimate_armor_x_191: -1610211382
+      ultimate_armor_x_121: 1632844075
+      ultimate_armor_x_304: -1989054317
+      ultimate_armor_x_76: -1216460930
+      ultimate_armor_x_81: -296431611
+      ultimate_armor_x_256: 530475950
+      ultimate_armor_x_159: 196333935
+      ultimate_armor_x_280: -1996814038
+      ultimate_armor_x_293: -1869777037
+      ultimate_armor_x_139: -66598731
+      ultimate_armor_x_170: 1017131179
+      ultimate_armor_x_94: -2112408732
+      ultimate_armor_x_171: 110732229
+      ultimate_armor_x_85: -2112789425
+      ultimate_armor_x_193: 1652812009
+      ultimate_armor_x_169: 545718775
+      ultimate_armor_x_220: 409366266
+      ultimate_armor_x_268: -1135661776
+      ultimate_armor_x_105: -694223551
+      ultimate_armor_x_69: 1734806423
+      ultimate_armor_x_138: -346066722
+      ultimate_armor_x_128: -1722697647
+      ultimate_armor_x_224: -1062806537
+      ultimate_armor_x_146: -1172111696
+      ultimate_armor_x_238: -1492486182
+      ultimate_armor_x_295: -345111982
+      ultimate_armor_x_278: -65207315
+      ultimate_armor_x_5: -516755334
+      ultimate_armor_x_160: -233697256
+      ultimate_armor_x_80: 65043218
+      ultimate_armor_x_66: -1955755238
+      ultimate_armor_x_305: 1433653676
+      ultimate_armor_x_298: 316426563
+      ultimate_armor_x_15: -1283564704
+      ultimate_armor_x_216: -901629262
+      ultimate_armor_x_118: 28541687
+      ultimate_armor_x_172: -241059547
+      ultimate_armor_x_294: 215353883
+      ultimate_armor_x_261: 1039511647
+      ultimate_armor_x_181: 688332002
+      ultimate_armor_x_78: -1735552880
+      ultimate_armor_x_122: 101923365
+      ultimate_armor_x_143: 740418293
+      ultimate_armor_x_74: 691215136
+      ultimate_armor_x_117: 1739833811
+      ultimate_armor_x_284: 1756169323
+      ultimate_armor_x_43: 1557786174
+      ultimate_armor_x_92: 1025053142
+      ultimate_armor_x_47: 2016335648
+      ultimate_armor_x_104: -592156885
+      ultimate_armor_x_12: -760503063
+      ultimate_armor_x_126: 1420224904
+      ultimate_armor_x_130: 156550229
+      ultimate_armor_x_152: -2113500217
+      ultimate_armor_x_237: 7685656
+      ultimate_armor_x_141: 1347311670
+      ultimate_armor_x_4: 1612915430
+      ultimate_armor_x_291: -2021013472
+      ultimate_armor_x_165: 1714737374
+      ultimate_armor_x_187: -397623826
+      ultimate_armor_x_175: 2099009537
+      ultimate_armor_x_199: -1943023304
+      ultimate_armor_x_59: -883038447
+      ultimate_armor_x_150: 1902213258
+      ultimate_armor_x_106: -921056522
+      ultimate_armor_x_255: -1022552291
+      ultimate_armor_x_107: -1315528614
+      ultimate_armor_x_119: -1329055353
+      ultimate_armor_x_37: 1315770674
+      ultimate_armor_x_124: 936775766
+      ultimate_armor_x_166: 1032948754
+      ultimate_armor_x_29: 1488319838
+      ultimate_armor_x_210: 1588888065
+      ultimate_armor_x_60: -525426176
+      ultimate_armor_x_192: 114744573
+      ultimate_armor_x_240: 1246190750
+      ultimate_armor_x_31: -818116451
+      ultimate_armor_x_65: -1376276644
+      ultimate_armor_x_157: 1487777535
+      ultimate_armor_x_246: 1276005406
+      ultimate_armor_x_84: 58692725
+      ultimate_armor_x_1: 1458252874
+      ultimate_armor_x_39: -2051428931
+      ultimate_armor_x_151: -254684638
+      ultimate_armor_x_231: -1925823300
+      ultimate_armor_x_19: 361886277
+      ultimate_armor_x_58: 437833155
+      ultimate_armor_x_217: 319667907
+      ultimate_armor_x_145: 1401064998
+      ultimate_armor_x_70: 1660860965
+      ultimate_armor_x_218: -1091611870
+      ultimate_armor_x_203: 955716622
+      ultimate_armor_x_282: -986252562
+      ultimate_armor_x_45: -779531781
+      ultimate_armor_x_46: -107009804
+      ultimate_armor_x_132: -1126562
+      ultimate_armor_x_184: -2063404384
+      ultimate_armor_x_258: -1080190987
+      ultimate_armor_x_234: -105243311
+      ultimate_armor_x_6: -16516693
+      ultimate_armor_x_42: 239921828
+      ultimate_armor_x_23: -1553903608
+      ultimate_armor_x_250: -2086173815
+      ultimate_armor_x_226: 767950120
+      ultimate_armor_x_213: 1716651305
+      ultimate_armor_x_242: -516211661
+      ultimate_armor_x_245: 1326861857
+      ultimate_armor_x_3: -280132134
+      ultimate_armor_x_273: -2060839721
+      ultimate_armor_x_177: 205526527
+      ultimate_armor_x_289: 1706793773
+      ultimate_armor_x_40: 840810894
+      ultimate_armor_x_300: -1047072420
+      ultimate_armor_x_147: 2146475881
+      ultimate_armor_x_209: 793266040
+      ultimate_armor_x_180: 2064370282
+      ultimate_armor_x_36: -782449870
+      ultimate_armor_x_97: 987945253
+      ultimate_armor_x_271: -1219826430
+      ultimate_armor_x_236: -957093786
+      ultimate_armor_x_49: 869779803
+      ultimate_armor_x_190: -1253341060
+      ultimate_armor_x_204: 885938411
+      ultimate_armor_x_286: -1193255901
+      ultimate_armor_x_196: 1504365236
+      ultimate_armor_x_206: -373128490
+      ultimate_armor_x_75: -2135612437
+      ultimate_armor_x_129: -1294254250
+      ultimate_armor_x_17: 381560894
+      ultimate_armor_x_63: -1743536586
+      ultimate_armor_x_272: 59531843
+      ultimate_armor_x_89: -1419386167
+      ultimate_armor_x_158: -2085481604
+      ultimate_armor_x_277: 811785881
+      ultimate_armor_x_10: 2104093092
+      ultimate_armor_x_144: 1732190661
+      ultimate_armor_x_142: 2024711653
+      ultimate_armor_x_27: -92129726
+      ultimate_armor_x_264: -239880758
+      ultimate_armor_x_33: -1711833861
+      ultimate_armor_x_266: 1411612162
+      ultimate_armor_x_52: 1017181646
+      ultimate_armor_x_168: 2063596055
+      ultimate_armor_x_202: 1541793507
+      ultimate_armor_x_71: 206695902
+      ultimate_armor_x_103: -34289582
+      ultimate_armor_x_136: 1357378051
+      ultimate_armor_x_148: 1320555997
+      ultimate_armor_x_267: 1866369598
+      ultimate_armor_x_197: -103465345
+      ultimate_armor_x_215: -809813885
+      ultimate_armor_x_73: 90962355
+      ultimate_armor_x_221: 1620076660
+      ultimate_armor_x_162: -2005032621
+      ultimate_armor_x_140: -331582021
+      ultimate_armor_x_67: 1125145340
+      ultimate_armor_x_22: 2018168182
+      ultimate_armor_x_270: -803175503
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

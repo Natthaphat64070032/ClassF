@@ -1,0 +1,1784 @@
+fileFormatVersion: 2
+guid: 60efdc379630ba243847ba243ca9a126
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: x5-sigma4_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 856
+        width: 178
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dc491fac14e8944b5fbed6ad6ff6aa
+      internalID: 2090341353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 857
+        width: 180
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8516bb87b112db94fb6aff7cae756d35
+      internalID: -7486926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_2
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 857
+        width: 180
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ad595bc8c2abf48bcdeed6093636ef
+      internalID: 134924134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 740
+        width: 8
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef26df184e733341a574b9024565706
+      internalID: 1894084695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 739
+        width: 42
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9732e9309c5fef4abcda43314c519de
+      internalID: 819267000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 737
+        width: 100
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d659527d01a49e49bad4db1e4ea76f0
+      internalID: -1944588031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 739
+        width: 100
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfa20d137a521e499a05b982458e26e
+      internalID: 1462035403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 743
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d9fec19e5bf88409f0c4e1ca0f8996
+      internalID: -1811026400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 743
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3e7bf8a46869144adba1ed5d8a5807
+      internalID: 563781029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_9
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 744
+        width: 63
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003f2ea40cf695148b46ca37f12ab4e3
+      internalID: -1659143929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_10
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 756
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cca8bd54b4c2d48a8292ad271d6ab5
+      internalID: -1243846471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_11
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 623
+        width: 69
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b8dcbb736bf64409d02ce65ac5052a
+      internalID: -960504726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_12
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 623
+        width: 56
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ca8afb108bdd547b0c5f279b855d6b
+      internalID: 1177011094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_13
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 623
+        width: 55
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564e02eb7183cc54a81bfbc14b75e8ea
+      internalID: 114456976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_14
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 624
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33402db1ed126fb4b8d1380dc48eaa83
+      internalID: 1983263850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_15
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 626
+        width: 85
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6c036fd13d4f047b2bb52bbb31b373
+      internalID: 866631310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_16
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 628
+        width: 97
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b4ba1b5a3d24b4f939455211eb4174
+      internalID: -974438056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_17
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 620
+        width: 46
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b4aa0305d57e24da4ea262b16e67e9
+      internalID: -883890713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 516
+        width: 55
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81ee158e18de3441b48726240658457
+      internalID: 547185707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_19
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 516
+        width: 55
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a785cb2b9d7584fb926ece8e474e8a
+      internalID: 764571396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_20
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 516
+        width: 55
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c3299858f613340882887fe1e35a04
+      internalID: 879464324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_21
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 516
+        width: 55
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c426a017c1bcdaf478b0bc4d7543cdc4
+      internalID: 815290444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_22
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 523
+        width: 27
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec980b073d45604482158314b93c0f7
+      internalID: 1627946342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_23
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 524
+        width: 14
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b220a9259ed6d648b7196820a730b9e
+      internalID: 1861266652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_24
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 514
+        width: 48
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e3eca307fb7694c9919fa433505668
+      internalID: -1576493812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_25
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 514
+        width: 48
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a982b0a6b11ace34785c2faa872a940d
+      internalID: 642263794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_26
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 512
+        width: 48
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e734c198284da4442b57193a1d8d234b
+      internalID: 67214399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_27
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 512
+        width: 55
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f443af700e358734f926b2abb53c4863
+      internalID: 1065731683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_28
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 512
+        width: 55
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3e6b5c5ba0527489f41f14aeff8d1b
+      internalID: 188905725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 403
+        width: 55
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2142fb55aa62dc5479b036a41c6ab494
+      internalID: -949656918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_30
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 403
+        width: 81
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e86812b226c814ca7ab627dc3bcc3c
+      internalID: -651724702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_31
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 402
+        width: 65
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076a2df9d69aa2b43bbf12234c4bee7e
+      internalID: 1915017798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_32
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 402
+        width: 69
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc961aa40807a5d4ea70a83bb51d8996
+      internalID: 49444498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_33
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 403
+        width: 69
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c87942c2d758540ba1da16c479260c
+      internalID: 1050476395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_34
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 273
+        width: 73
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce897682f72a344485beacfef88e58c
+      internalID: 472835796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_35
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 268
+        width: 117
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1503137fc4b9f4c8a22120db0f0dfa
+      internalID: -1393298083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_36
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 366
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dfcca16f9429440adff20c8c4e07c4
+      internalID: 1430107001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_37
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 268
+        width: 105
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75358103c25ca494a89659a919bfe678
+      internalID: -846855988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_38
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 268
+        width: 47
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da6289eb0c840c468023d6380fd9951
+      internalID: 919934456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_39
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 272
+        width: 78
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75aa4a536fe21b4479f4c80aecdd278a
+      internalID: -1381366184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_40
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 221
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b79703c4ed42e84581e90848414b260
+      internalID: -865896734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_41
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 222
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c0dd9ddc03c0045af2f2188be750d0
+      internalID: -431751889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_42
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 223
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507c92fb9c4eba944a0be1a5c784196e
+      internalID: -1395976672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_43
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 221
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4041915c57a4e3840bdec05364073554
+      internalID: 960857759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_44
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 222
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377e26784f4d2894a895157cf833722d
+      internalID: 1809218790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_45
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 218
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442856f31a5a6c642bedf3b24d84b2ee
+      internalID: 1521010387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_46
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 218
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872326e42c6589b47a88260103eada91
+      internalID: 1622577793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_47
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 240
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032ff57547be007469f844d5f3b53e31
+      internalID: -101539323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_48
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 221
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e5086cfeeb89d48a2c94f779fc0cff
+      internalID: -1632322709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_49
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 120
+        width: 62
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafd56b3fd4ae7c4caa567a4cfd9c610
+      internalID: 1564920659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_50
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 109
+        width: 64
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29d22b27fd742246bd30ca8e264ebf2
+      internalID: -322042741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_51
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 110
+        width: 70
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d399f2b592e322940b4fb4dfcd51ee8e
+      internalID: -958584420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_52
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 225
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbcb96f31abca54c98f71af21e2be25
+      internalID: 1230813283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_53
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 222
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4916e828bde8dfa45a84a6ed0e18eb2b
+      internalID: 928844190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_54
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 235
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6726a8e6ac821e844bdf1a41849586df
+      internalID: -1768533864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_55
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 230
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3152aadd49ad2f24ea0e21e0ceb32a52
+      internalID: -1309445639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_56
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 216
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfe1dc7f6fd463479583e7490c427a2
+      internalID: 1546906234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_57
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 217
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e739df3fdd7ee2f44a6f4d130f771736
+      internalID: -1522123025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_58
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 188
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb18f0234ec1404d911d3f11e307153
+      internalID: -904890394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_59
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 182
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1b3ea756d912b48b60203fcd060f2d
+      internalID: -2084539455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_60
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 180
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254c93ec99976e747ae237f02a38880d
+      internalID: -508842798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_61
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 177
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee54eec6c8fdf7b47896845cf97020a1
+      internalID: -873836978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_62
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 177
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e345c030c504324faede2c36d9ef23f
+      internalID: 438091120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_63
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 177
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6485fc26fa19a49a5b0739c7566f1b
+      internalID: -632351808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_64
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 177
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739fd0e6d70648a42929bd65366311b3
+      internalID: 435468639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_65
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 177
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1751aaa93f21e11408e734b032bae8b3
+      internalID: -891714723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_66
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 177
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96460e3524e2ac04c989e8b0c2e8e40d
+      internalID: -1453816857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_67
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 109
+        width: 71
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10d02c19eeaa13429aadc6a3040f12e
+      internalID: -1380521383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_68
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 109
+        width: 79
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb29baf368962fe44aa09739f51b032b
+      internalID: -1525421874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_69
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 12
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0b4726fef27f049a2bc68c9bc3a103
+      internalID: -293881234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_70
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a9a2a3b8559db4fac4c3a3e02c0132
+      internalID: 1583756193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_71
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 2
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53584ebb8158d849a6f59b093d6700d
+      internalID: -156852738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_72
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 5
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c9923659537024cb7ed1cfdd298944
+      internalID: 1141467341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_73
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 5
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4f0ee2de9999d478097fedc987b8ac
+      internalID: 242081800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x5-sigma4_74
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 5
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f140132623ad6c4f9d86814f6b167c3
+      internalID: -1519278098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      x5-sigma4_20: 879464324
+      x5-sigma4_54: -1768533864
+      x5-sigma4_1: -7486926
+      x5-sigma4_10: -1243846471
+      x5-sigma4_21: 815290444
+      x5-sigma4_9: -1659143929
+      x5-sigma4_48: -1632322709
+      x5-sigma4_24: -1576493812
+      x5-sigma4_62: 438091120
+      x5-sigma4_63: -632351808
+      x5-sigma4_64: 435468639
+      x5-sigma4_73: 242081800
+      x5-sigma4_8: 563781029
+      x5-sigma4_27: 1065731683
+      x5-sigma4_65: -891714723
+      x5-sigma4_19: 764571396
+      x5-sigma4_32: 49444498
+      x5-sigma4_22: 1627946342
+      x5-sigma4_55: -1309445639
+      x5-sigma4_35: -1393298083
+      x5-sigma4_49: 1564920659
+      x5-sigma4_17: -883890713
+      x5-sigma4_61: -873836978
+      x5-sigma4_36: 1430107001
+      x5-sigma4_29: -949656918
+      x5-sigma4_39: -1381366184
+      x5-sigma4_45: 1521010387
+      x5-sigma4_33: 1050476395
+      x5-sigma4_46: 1622577793
+      x5-sigma4_52: 1230813283
+      x5-sigma4_60: -508842798
+      x5-sigma4_14: 1983263850
+      x5-sigma4_57: -1522123025
+      x5-sigma4_25: 642263794
+      x5-sigma4_2: 134924134
+      x5-sigma4_44: 1809218790
+      x5-sigma4_50: -322042741
+      x5-sigma4_72: 1141467341
+      x5-sigma4_38: 919934456
+      x5-sigma4_43: 960857759
+      x5-sigma4_71: -156852738
+      x5-sigma4_13: 114456976
+      x5-sigma4_56: 1546906234
+      x5-sigma4_7: -1811026400
+      x5-sigma4_12: 1177011094
+      x5-sigma4_6: 1462035403
+      x5-sigma4_3: 1894084695
+      x5-sigma4_28: 188905725
+      x5-sigma4_66: -1453816857
+      x5-sigma4_51: -958584420
+      x5-sigma4_40: -865896734
+      x5-sigma4_59: -2084539455
+      x5-sigma4_67: -1380521383
+      x5-sigma4_4: 819267000
+      x5-sigma4_58: -904890394
+      x5-sigma4_18: 547185707
+      x5-sigma4_41: -431751889
+      x5-sigma4_74: -1519278098
+      x5-sigma4_37: -846855988
+      x5-sigma4_42: -1395976672
+      x5-sigma4_31: 1915017798
+      x5-sigma4_15: 866631310
+      x5-sigma4_47: -101539323
+      x5-sigma4_16: -974438056
+      x5-sigma4_26: 67214399
+      x5-sigma4_11: -960504726
+      x5-sigma4_23: 1861266652
+      x5-sigma4_69: -293881234
+      x5-sigma4_53: 928844190
+      x5-sigma4_68: -1525421874
+      x5-sigma4_0: 2090341353
+      x5-sigma4_70: 1583756193
+      x5-sigma4_34: 472835796
+      x5-sigma4_30: -651724702
+      x5-sigma4_5: -1944588031
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
